@@ -1,0 +1,15 @@
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\bin\Debug\net10.0\DataBaseAssign.exe
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\bin\Debug\net10.0\DataBaseAssign.deps.json
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\bin\Debug\net10.0\DataBaseAssign.runtimeconfig.json
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\bin\Debug\net10.0\DataBaseAssign.dll
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\bin\Debug\net10.0\DataBaseAssign.pdb
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\DataBaseAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\DataBaseAssign.AssemblyInfoInputs.cache
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\DataBaseAssign.AssemblyInfo.cs
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\DataBaseAssign.csproj.CoreCompileInputs.cache
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\DataBaseAssign.dll
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\refint\DataBaseAssign.dll
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\DataBaseAssign.pdb
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\DataBaseAssign.genruntimeconfig.cache
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\ref\DataBaseAssign.dll
+C:\Users\com\source\repos\DataBaseAssign\DataBaseAssign\obj\Debug\net10.0\DataBase.317A12D6.Up2Date
