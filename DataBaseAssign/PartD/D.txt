@@ -1,0 +1,13 @@
+﻿Reservation Can Have at Most One Rental
+
+- SRS: Section 7.12
+- Rule: A Reservation cannot be linked to more than one Rental.
+- Why Constraints Alone Are Insufficient: A Foreign Key (FK) alone does not prevent multiple Rentals from referencing the same Reservation.
+- Enforcement: Apply a Unique Constraint on `RENTAL.ReservationNo`, allowing NULL values.
+
+Vehicle Cannot Be Transferred to the Same Branch
+- SRS: Section 8 — Stakeholder Notes
+- Rule: FromBranchCode must be different from ToBranchCode.
+- Why Constraints Alone Are Insufficient: This rule requires comparing two columns within the same row.
+- Enforcement: Apply a CHECK Constraint: CHECK (FromBranchCode <> ToBranchCode).
+

@@ -1,0 +1,11 @@
+Does the price of a Luxury Model remain fixed, or does it change periodically like Category Rates?
+Must an Additional Driver be an Authorized Driver in the case of a Corporate Rental?
+Can a Corporate Invoice include multiple Rentals within the same month?
+
+
+Assumptions
+An Employee must belong to only one Branch at a time.
+A Payment must be associated with either a Rental or a Corporate Invoice, but not both.
+
+Contradictions
+No explicit contradictions identified in the SRS.
